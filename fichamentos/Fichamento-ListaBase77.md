@@ -1,7 +1,7 @@
 # Unmasking Data Secrets: An Empirical Investigation into Data Smells and Their Impact on Data Quality
 
 
-RECUPITO, G. et al. Unmasking data secrets: An empirical investigation into data smells and their impact on data quality. Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering - Software Engineering for AI. Anais...New York, NY, USA: ACM, 2024.
+G. Recupito, R. Rapacciuolo, D. Di Nucci and F. Palomba, "Unmasking Data Secrets: An Empirical Investigation into Data Smells and Their Impact on Data Quality," 2024 IEEE/ACM 3rd International Conference on AI Engineering – Software Engineering for AI (CAIN), Lisbon, Portugal, 2024, pp. 53-63, doi: [10.1145/3644815.3644960](https://doi.org/10.1145/3644815.3644960)
 
 
 ## 1. Fichamento de Conteúdo
