@@ -1,7 +1,7 @@
 # An Empirical Study on Quality Issues of eBay
 
 
-ZHU, F. et al. An empirical study on quality issues of eBay’s big data SQL analytics platform. Proceedings of the 44th International Conference on Software Engineering: Software Engineering in Practice, 21 maio 2022.
+F. Zhu et al., "An Empirical Study on Quality Issues of eBay's Big Data SQL Analytics Platform," 2022 IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), Pittsburgh, PA, USA, 2022, pp. 33-42, doi: 10.1145/3510457.3513034.
 
 ‌
 ## 1. Fichamento de Conteúdo
