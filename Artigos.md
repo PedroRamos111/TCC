@@ -64,3 +64,7 @@
 * Relational Database Performance Comparation
   
   https://ieeexplore.ieee.org/abstract/document/10086872
+
+* How not to Structure Your Database-Backed Web Applications: A Study of Performance Bugs in the Wild
+
+  https://ieeexplore.ieee.org/document/8453153
