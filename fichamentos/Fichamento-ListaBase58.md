@@ -1,7 +1,7 @@
 # Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries
 
 
-LIU, X. et al. Automatic detection of performance bugs in database systems using equivalent queries. Proceedings of the 44th International Conference on Software Engineering, 21 maio 2022.
+X. Liu, Q. Zhou, J. Arulrai and A. Orso, "Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries," 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE), Pittsburgh, PA, USA, 2022, pp. 225-236, doi: [10.1145/3510003.3510093](https://doi.org/10.1145/3510003.3510093)
 
 
 ## 1. Fichamento de Conteúdo
