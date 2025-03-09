@@ -18,3 +18,12 @@ O artigo "An Empirical Study on Quality Issues of eBay’s Big Data SQL Analytic
 * **Desafios no planejamento de consultas:** A conversão de consultas para planos físicos pode ser ineficiente devido a regras incorretas, estatísticas desatualizadas e otimizações limitadas.
 * **Impacto da gestão de dados e recursos:** Pequenos arquivos, dados intermediários excessivos e desalinhamento na distribuição de tarefas impactam negativamente a performance do sistema.
 * **Necessidade de ferramentas automatizadas:** São recomendadas soluções para análise automática de consultas, ajuste dinâmico de configurações e melhor gestão de recursos para minimizar falhas e melhorar o desempenho.
+
+
+## 3. Fichamento de Citações
+
+
+* _"The platform quality issues manifest as more than 15 main symptoms and can be classified into three categories: Job Failure (57.7%), Job Slowness (37.36%) and Wrong Result (4.94%)."_
+* _"Finding 2: The root causes can be classified into three primary categories: 14.54% issues are caused by User Side Faults, 46.02% caused by System Internal Defects in Carmel-Spark during the query planning and execution, and 39.44% caused by Platform Component Mismatches among different open-source components."_
+* _"More than 70% user-side faults caused by SQL anti-patterns, including code smells, low performant queries, ambiguous operators, and inefficient data mode design."_
+* _"It is possible to take advantage of historical execution metrics and design advanced dynamic models with machine learning techniques to improve query optimization."_
