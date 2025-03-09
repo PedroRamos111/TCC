@@ -1,7 +1,7 @@
 # Relational Database Performance Comparation
 
 
-GUDILIN, D. S. et al. Relational Database Performance Comparation. 16 mar. 2023.
+D. S. Gudilin, A. E. Zvonarev, B. S. Goryachkin and D. A. Lychagin, "Relational Database Performance Comparation," 2023 5th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Moscow, Russian Federation, 2023, pp. 1-5, doi: [10.1109/REEPE57272.2023.10086872](https://doi.org/10.1109/REEPE57272.2023.10086872)
 
 
 ## 1. Fichamento de Conteúdo
