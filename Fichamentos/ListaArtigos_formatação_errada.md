@@ -3,17 +3,11 @@
 
 ## Artigos da lista de artigos base:
 
-* An empirical study on quality issues of eBay's big data SQL analytics platform
-  
-  https://ieeexplore.ieee.org/document/9793914
+* F. Zhu et al., "An Empirical Study on Quality Issues of eBay's Big Data SQL Analytics Platform," 2022 IEEE/ACM 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP), Pittsburgh, PA, USA, 2022, pp. 33-42, doi: [10.1145/3510457.3513034](https://doi.org/10.1145/3510457.3513034)
 
-* Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries
-  
-  https://www.cc.gatech.edu/grads/x/xliu744/icse22.pdf
+* X. Liu, Q. Zhou, J. Arulrai and A. Orso, "Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries," 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE), Pittsburgh, PA, USA, 2022, pp. 225-236, doi: [10.1145/3510003.3510093](https://doi.org/10.1145/3510003.3510093)
 
-* Unmasking Data Secrets: An Empirical Investigation into Data Smells and Their Impact on Data Quality
-  
-  https://dl.acm.org/doi/pdf/10.1145/3644815.3644960
+* G. Recupito, R. Rapacciuolo, D. Di Nucci and F. Palomba, "Unmasking Data Secrets: An Empirical Investigation into Data Smells and Their Impact on Data Quality," 2024 IEEE/ACM 3rd International Conference on AI Engineering – Software Engineering for AI (CAIN), Lisbon, Portugal, 2024, pp. 53-63, doi: [10.1145/3644815.3644960](https://doi.org/10.1145/3644815.3644960)
 
 ## Artigos gerais
 
