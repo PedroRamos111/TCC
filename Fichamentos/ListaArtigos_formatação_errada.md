@@ -29,13 +29,9 @@
 
 * Y. Li and S. Manoharan, "A performance comparison of SQL and NoSQL databases," 2013 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM), Victoria, BC, Canada, 2013, pp. 15-19, doi: [10.1109/PACRIM.2013.6625441](https://doi.org/10.1109/PACRIM.2013.6625441)
 
-* A performance comparison of document oriented NoSQL databases
-  
-  https://ieeexplore.ieee.org/document/7944071?denied=
+* K. B. S. Kumar, Srividya and S. Mohanavalli, "A performance comparison of document oriented NoSQL databases," 2017 International Conference on Computer, Communication and Signal Processing (ICCCSP), Chennai, India, 2017, pp. 1-6, doi: [10.1109/ICCCSP.2017.7944071](https://doi.org/10.1109/ICCCSP.2017.7944071)
 
-* Performance Comparison for Data Retrieval from NoSQL and SQL Databases: A Case Study for COVID-19 Genome Sequence Dataset
-  
-  https://ieeexplore.ieee.org/abstract/document/9331044
+* S. Chakraborty, S. Paul and K. M. Azharul Hasan, "Performance Comparison for Data Retrieval from NoSQL and SQL Databases: A Case Study for COVID-19 Genome Sequence Dataset," 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), DHAKA, Bangladesh, 2021, pp. 324-328, doi: [10.1109/ICREST51555.2021.9331044](https://doi.org/10.1109/ICREST51555.2021.9331044)
 
 * SQL Versus NoSQL Movement with Big Data Analytics
   
@@ -45,18 +41,10 @@
   
   https://www.sciencedirect.com/science/article/abs/pii/S2214785320324159
 
-* Performance evaluation of SQL and MongoDB databases for big e-commerce data
-  
-  https://ieeexplore.ieee.org/abstract/document/7369245
+* S. H. Aboutorabiª, M. Rezapour, M. Moradi and N. Ghadiri, "Performance evaluation of SQL and MongoDB databases for big e-commerce data," 2015 International Symposium on Computer Science and Software Engineering (CSSE), Tabriz, Iran, 2015, pp. 1-7, doi: [10.1109/CSICSSE.2015.7369245](https://doi.org/10.1109/CSICSSE.2015.7369245)
 
-* Analysis of Database System Architectures Using Benchmarks
-  
-  https://ieeexplore.ieee.org/document/1702276
+* S. B. Yao, A. R. Hevner and H. Young-Myers, "Analysis of Database System Architectures Using Benchmarks," in IEEE Transactions on Software Engineering, vol. SE-13, no. 6, pp. 709-725, June 1987, doi: [10.1109/TSE.1987.233476](https://doi.org/10.1109/TSE.1987.233476)
 
-* Relational Database Performance Comparation
-  
-  https://ieeexplore.ieee.org/abstract/document/10086872
+* D. S. Gudilin, A. E. Zvonarev, B. S. Goryachkin and D. A. Lychagin, "Relational Database Performance Comparation," 2023 5th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Moscow, Russian Federation, 2023, pp. 1-5, doi: [10.1109/REEPE57272.2023.10086872](https://doi.org/10.1109/REEPE57272.2023.10086872)
 
-* How not to Structure Your Database-Backed Web Applications: A Study of Performance Bugs in the Wild
-
-  https://ieeexplore.ieee.org/document/8453153
+* J. Yang, C. Yan, P. Subramaniam, S. Lu and A. Cheung, "How not to Structure Your Database-Backed Web Applications: A Study of Performance Bugs in the Wild," 2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE), Gothenburg, Sweden, 2018, pp. 800-810, doi: [10.1145/3180155.3180194](https://doi.org/10.1145/3180155.3180194)
