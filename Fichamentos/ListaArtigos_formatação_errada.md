@@ -11,9 +11,7 @@
 
 ## Artigos gerais
 
-* Estudo comparativo de indexação de texto completo para recuperação de informações em sistemas gerenciadores de banco de dados
-  
-  https://www.revistas.usp.br/incid/article/view/152193/153417
+* E. M. da Silva e L. M. Mardegan, "Estudo comparativo de indexação de texto completo para recuperação de informações em sistemas gerenciadores de banco de dados," InCID: Revista de Ciência da Informação e Documentação, vol. 10, nº 1, pp. 281-301, mar./ago. 2019, doi: [10.11606/issn.2178-2075.v10i1p281-301](doi.org/10.11606/issn.2178-2075.v10i1p281-301)
 
 * Uma Avaliação Experimental Sobre Técnicas de Indexação em Bancos de dados Orientados a Objetos
   
