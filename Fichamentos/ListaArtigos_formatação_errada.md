@@ -37,9 +37,7 @@
   
   https://web.archive.org/web/20180720120220id_/http://www.mecs-press.org/ijitcs/ijitcs-v8-n12/IJITCS-V8-N12-7.pdf
 
-* Performance analysis of NoSQL and relational databases with MongoDB and MySQL
-  
-  https://www.sciencedirect.com/science/article/abs/pii/S2214785320324159
+* C. A. Győrödi, D. V. Dumşe-Burescu, D. R. Zmaranda, R. Ş. Győrödi, G. A. Gabor e G. D. Pecherle, "Performance Analysis of NoSQL and Relational Databases with CouchDB and MySQL for Application’s Data Storage," Applied Sciences, vol. 10, nº 23, p. 8524, 2020, doi: [10.3390/app10238524](https://doi.org/10.3390/app10238524)
 
 * S. H. Aboutorabiª, M. Rezapour, M. Moradi and N. Ghadiri, "Performance evaluation of SQL and MongoDB databases for big e-commerce data," 2015 International Symposium on Computer Science and Software Engineering (CSSE), Tabriz, Iran, 2015, pp. 1-7, doi: [10.1109/CSICSSE.2015.7369245](https://doi.org/10.1109/CSICSSE.2015.7369245)
 
