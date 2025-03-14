@@ -15,9 +15,7 @@
 
 * E. S. Ogasawara e M. L. Q. Mattoso, "[Uma Avaliação Experimental sobre Técnicas de Indexação em Bancos de Dados Orientados a Objetos](https://www.researchgate.net/publication/221535854)," Simpósio Brasileiro de Banco de Dados (SBBD), Rio de Janeiro, Brasil, 1999 
 
-* Análise Experimental de Bases de Dados Relacionais e NoSQL no Processamento de Consultas sobre Data Warehouse
-  
-  https://www.researchgate.net/profile/Anderson-Chaves-Carniel/publication/274837090_Analise_Experimental_de_Bases_de_Dados_Relacionais_e_NoSQL_no_Processamento_de_Consultas_sobre_Data_Warehouse/links/5638cab308ae4bde5021de0b/Analise-Experimental-de-Bases-de-Dados-Relacionais-e-NoSQL-no-Processamento-de-Consultas-sobre-Data-Warehouse.pdf
+* A. C. Carniel, A. de A. Sá, M. X. Ribeiro, R. Bueno, C. D. A. Ciferri e R. R. Ciferri, "[Análise Experimental de Bases de Dados Relacionais e NoSQL no Processamento de Consultas sobre Data Warehouse](https://www.researchgate.net/publication/274837090)" Simpósio Brasileiro de Bancos de Dados (SBBD), São Carlos, Brasil, 2012
 
 * Y. Li and S. Manoharan, "A performance comparison of SQL and NoSQL databases," 2013 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM), Victoria, BC, Canada, 2013, pp. 15-19, doi: [10.1109/PACRIM.2013.6625441](https://doi.org/10.1109/PACRIM.2013.6625441)
 
