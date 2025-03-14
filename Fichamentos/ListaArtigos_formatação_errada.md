@@ -33,9 +33,7 @@
 
 * S. Chakraborty, S. Paul and K. M. Azharul Hasan, "Performance Comparison for Data Retrieval from NoSQL and SQL Databases: A Case Study for COVID-19 Genome Sequence Dataset," 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST), DHAKA, Bangladesh, 2021, pp. 324-328, doi: [10.1109/ICREST51555.2021.9331044](https://doi.org/10.1109/ICREST51555.2021.9331044)
 
-* SQL Versus NoSQL Movement with Big Data Analytics
-  
-  https://web.archive.org/web/20180720120220id_/http://www.mecs-press.org/ijitcs/ijitcs-v8-n12/IJITCS-V8-N12-7.pdf
+* S. Venkatraman, K. Fahd, S. Kaspi e R. Venkatraman, "SQL Versus NoSQL Movement with Big Data Analytics," International Journal of Information Technology and Computer Science (IJITCS), vol. 8, nº 12, pp. 59-66, 2016, doi: [10.5815/ijitcs.2016.12.07](https://doi.org/10.5815/ijitcs.2016.12.07)
 
 * C. A. Győrödi, D. V. Dumşe-Burescu, D. R. Zmaranda, R. Ş. Győrödi, G. A. Gabor e G. D. Pecherle, "Performance Analysis of NoSQL and Relational Databases with CouchDB and MySQL for Application’s Data Storage," Applied Sciences, vol. 10, nº 23, p. 8524, 2020, doi: [10.3390/app10238524](https://doi.org/10.3390/app10238524)
 
