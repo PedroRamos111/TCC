@@ -11,10 +11,6 @@
 
 ## Artigos gerais
 
-* Eficiência de Consultas no SQL SERVER: Um estudo de caso por meio de análise de indexações
-  
-  https://josif.ifsuldeminas.edu.br/ojs/index.php/anais/article/view/1661/918
-
 * Estudo comparativo de indexação de texto completo para recuperação de informações em sistemas gerenciadores de banco de dados
   
   https://www.revistas.usp.br/incid/article/view/152193/153417
