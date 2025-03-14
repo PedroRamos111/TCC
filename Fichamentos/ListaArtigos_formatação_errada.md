@@ -13,9 +13,7 @@
 
 * E. M. da Silva e L. M. Mardegan, "Estudo comparativo de indexação de texto completo para recuperação de informações em sistemas gerenciadores de banco de dados," InCID: Revista de Ciência da Informação e Documentação, vol. 10, nº 1, pp. 281-301, mar./ago. 2019, doi: [10.11606/issn.2178-2075.v10i1p281-301](doi.org/10.11606/issn.2178-2075.v10i1p281-301)
 
-* Uma Avaliação Experimental Sobre Técnicas de Indexação em Bancos de dados Orientados a Objetos
-  
-  https://www.researchgate.net/profile/Eduardo-Ogasawara/publication/221535854_Uma_Avaliacao_Experimental_sobre_Tecnicas_de_Indexacao_em_Bancos_de_Dados_Orientados_a_Objetos/links/553707f90cf2058efdeaac43/Uma-Avaliacao-Experimental-sobre-Tecnicas-de-Indexacao-em-Bancos-de-Dados-Orientados-a-Objetos.pdf
+* E. S. Ogasawara e M. L. Q. Mattoso, "[Uma Avaliação Experimental sobre Técnicas de Indexação em Bancos de Dados Orientados a Objetos](https://www.researchgate.net/publication/221535854)," Simpósio Brasileiro de Banco de Dados (SBBD), Rio de Janeiro, Brasil, 1999 
 
 * Análise Experimental de Bases de Dados Relacionais e NoSQL no Processamento de Consultas sobre Data Warehouse
   
