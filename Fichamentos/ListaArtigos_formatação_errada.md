@@ -11,7 +11,7 @@
 
 ## Artigos gerais
 
-* E. M. da Silva e L. M. Mardegan, "Estudo comparativo de indexação de texto completo para recuperação de informações em sistemas gerenciadores de banco de dados," InCID: Revista de Ciência da Informação e Documentação, vol. 10, nº 1, pp. 281-301, mar./ago. 2019, doi: [10.11606/issn.2178-2075.v10i1p281-301](doi.org/10.11606/issn.2178-2075.v10i1p281-301)
+* E. M. da Silva e L. M. Mardegan, "Estudo comparativo de indexação de texto completo para recuperação de informações em sistemas gerenciadores de banco de dados," InCID: Revista de Ciência da Informação e Documentação, vol. 10, nº 1, pp. 281-301, mar./ago. 2019, doi: [10.11606/issn.2178-2075.v10i1p281-301](https://doi.org/10.11606/issn.2178-2075.v10i1p281-301)
 
 * E. S. Ogasawara e M. L. Q. Mattoso, "[Uma Avaliação Experimental sobre Técnicas de Indexação em Bancos de Dados Orientados a Objetos](https://www.researchgate.net/publication/221535854)," Simpósio Brasileiro de Banco de Dados (SBBD), Rio de Janeiro, Brasil, 1999 
 
