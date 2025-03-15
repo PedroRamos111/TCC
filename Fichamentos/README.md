@@ -10,4 +10,4 @@
  3. [Automatic Detection of Performance Bugs in Database Systems using Equivalent Queries](https://github.com/PedroRamos111/TCC/blob/main/Fichamentos/Fichamento-ListaBase58.md)
  4. [Unmasking Data Secrets: An Empirical Investigation into Data Smells and Their Impact on Data Quality](https://github.com/PedroRamos111/TCC/blob/main/Fichamentos/Fichamento-ListaBase77.md)
  5. [Relational Database Performance Comparation](https://github.com/PedroRamos111/TCC/blob/main/Fichamentos/Fichamento-Relational-Database-Performance-Comparation.md)
- 6. []()
+ 6. [Analysis of Database System Architectures Using Benchmarks](https://github.com/PedroRamos111/TCC/blob/main/Fichamentos/Fichamento-Analysis-of-Database-System-Architectures-Using-Benchmarks.md)
